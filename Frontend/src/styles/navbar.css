@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: whitesmoke;
+}
+
+.nav span{
+    font-size: larger;
+    color: brown;
+}
+
