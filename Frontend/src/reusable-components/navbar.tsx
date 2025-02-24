@@ -16,25 +16,25 @@ const Navbar = () => {
             Home
           </NavLink>
           <NavLink
-            to="/services"
+            to="/user/services"
             style={({ isActive }) => getNavLinkStyle(isActive)}
           >
             Services
           </NavLink>
           <NavLink
-            to="/about"
+            to="/user/about"
             style={({ isActive }) => getNavLinkStyle(isActive)}
           >
             About
           </NavLink>
           <NavLink
-            to="/gallery"
+            to="/user/gallery"
             style={({ isActive }) => getNavLinkStyle(isActive)}
           >
             Gallery
           </NavLink>
           <NavLink
-            to="/custom"
+            to="/user/custom"
             style={({ isActive }) => getNavLinkStyle(isActive)}
           >
             Customize
