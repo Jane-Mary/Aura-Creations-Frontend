@@ -2,11 +2,11 @@
     display: flex;
     justify-content: space-between;
     padding: 2rem;
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
 }
 
 .nav span{
     font-size: larger;
-    color: brown;
+    color: #a52a2a;
 }
 
